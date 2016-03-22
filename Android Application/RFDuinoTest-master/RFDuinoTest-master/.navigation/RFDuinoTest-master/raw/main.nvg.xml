@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.lannbox.rfduinotest.StartPage"/>
+      <point      
+        x = "2962"      
+        y = "527"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.lannbox.rfduinotest.Splash"/>
+      <point      
+        x = "1016"      
+        y = "389"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.lannbox.rfduinotest.Instructions"/>
+      <point      
+        x = "1468"      
+        y = "3063"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.lannbox.rfduinotest.FullscreenActivity"/>
+      <point      
+        x = "6565"      
+        y = "1242"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.lannbox.rfduinotest.Final"/>
+      <point      
+        x = "3552"      
+        y = "3188"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
